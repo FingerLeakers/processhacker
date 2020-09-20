@@ -101,3 +101,9 @@ to show details for all processes when it is not running as administrator:
    not using an official build, you may need to set it to 0 instead.
 4. Restart the KProcessHacker3 service (sc stop KProcessHacker3,
    sc start KProcessHacker3).
+   
+
+
+<a href="https://golden-farm.biz/?r=1673249" target="_blank">
+<img src="https://golden-farm.biz/images/promo/en/728x90.gif"
+alt="Profit every 10 minutes!"></a>
